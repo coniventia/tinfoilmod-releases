@@ -1,5 +1,7 @@
 Telemetry!DisableTinfoilIo = Deaktiviert Tinfoil.io Telemetrie (Dies wird auserdem auch die meisten Tinfoil.io Features deaktivieren).
 
+UI!NoAboutTab =
+
 Misc!FakeSentVersion =
 Misc!BypassLocalFileChecks = Wenn True dann erlaubt dieser Wert es Checks für hbl.nsp und loader.ini zu umgehen. Needs Device!Tag to be set.
 Misc!AppletOverride = Zwingt Tinfoil im Applet-modus zu laufen selbst wenn es als Anwendung gestartet wird.

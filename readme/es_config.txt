@@ -1,5 +1,7 @@
 Telemetry!DisableTinfoilIo = Deshabilita la telemetría de Tinfoil.io (también deshabilitará la mayoría de las funciones de Tinfoil.io).
 
+UI!NoAboutTab =
+
 Misc!FakeSentVersion = Suplanta la versión de Tinfoil enviada a las ubicaciones (locations). Elimínalo para usar la versión real.
 Misc!BypassLocalFileChecks = Este valor permite omitir las comprobaciones de los archivos hbl.nsp y loader.ini, cuando se establece en True.
 Misc!AppletOverride = Fuerza el modo Applet en Tinfoil, incluso cuando se ejecuta como aplicación.
