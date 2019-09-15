@@ -1,0 +1,21 @@
+A Tinfoil 4.00r2 mod, for advanced users.
+-- Features:
+- Allows unlocking of features normally exclusive to SX OS license owners
+- Allows unlocking ReiNX/SX-specific features
+- Tinfoil version spoofing
+- Local file check bypasses (no hbl.nsp and loader.ini signature checks)
+- Can force Applet mode
+
+Please note: Theme whitelist bypassing and spoofing features have been removed.
+
+This mod contains fixes for firmware version 9.0.0.
+Make sure you have the proper configuration and files, if using Atmosphere, as it may cause Tinfoil to crash.
+Warning: If using Atmosphere, please be careful of using the Firmware tab, as that may brick your device.
+
+Configuration is located at "sdmc:/switch/tinfoil/mod_config.ini".
+
+-- Please note:
+The Device!Tag value needs to be modified to a device-specific value for some parts of the configuration to be read. This value can be found in the Console tab, when running TinfoilMod.
+This is meant to prevent malicious pre-baked configuration files.
+
+-- Example configuration:

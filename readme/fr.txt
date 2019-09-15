@@ -1,0 +1,21 @@
+Un mod de Tinfoil 4.00r2, pour les utilisateurs avancés.
+-- Fonctionnalités:
+- Permet le débloquage de fonctionnalités normalement réservées aux possesseurs d'une licence SX OS
+- Permet le débloquage de fonctionnalités spécifiques à ReiNX ou SX OS
+- Falsification de la version de Tinfoil
+- Contournage de certaines vérifications de fichiers (pas de vérification de signature sur hbl.nsp et loader.ini)
+- Peut forcer le mode Applet
+
+Veuillez noter: Les fonctionnalités de contournage de la liste blanche des thèmes et la falsification de thème ont été retirées.
+
+Ce mod contient des correctifs pour la version 9.0.0 du logiciel système.
+Si vous utilisez Atmosphère, veuillez vérifier que vous disposez d'une configuration correcte et accompagnée des bons fichiers. Dans le cas échéant, cela pourrait causer des plantages avec Tinfoil.
+Attention: Si vous utilisez Atmosphère, soyez prudents avec l'onglet "Mises à jour du système". Il pourrait rendre votre système inutilisable.
+
+Le fichier de configuration est localisé dans le fichier "sdmc:/switch/tinfoil/mod_config.ini".
+
+-- Veuillez noter:
+La valeur de Device!Tag doit être modifiée en accord à votre appareil pour que certaines parties de la configuration soient lues. Cette valeur peut être trouvée dans l'onglet Console, avec TinfoilMod.
+Cela est fait de la sorte à empêcher des fichiers de configuration malveillants pré-conçus.
+
+-- Exemple de configuration:
