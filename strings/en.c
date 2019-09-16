@@ -4,6 +4,14 @@
 .Config_WrongDeviceTag =
     "TinfoilMod configuration warning: Device!Tag does not match this device.\n"
     "The value for your device can be found in the Console tab.";
+.Telemetry_CannotDisableTinfoilIo =
+    "TinfoilMod warning: Device!Tag does not match this device.\n"
+    "As such, Tinfoil.io telemetry cannot be disabled.\n"
+    "The value for your device can be found in the Console tab.";
+.UI_CannotRemoveAboutTab =
+    "TinfoilMod warning: Device!Tag does not match this device.\n"
+    "As such, the About tab cannot be disabled.\n"
+    "The value for your device can be found in the Console tab.";
 .Misc_LocalFileChecksDisabled =
     "TinfoilMod warning: Device!Tag does not match this device.\n"
     "As such, file verification bypassing has been disabled.\n"

@@ -4,6 +4,14 @@
 .Config_WrongDeviceTag =
     "Problème de configuration TinfoilMod: Device!Tag ne correspond pas à votre appareil.\n"
     "La valeur pour votre appareil peut être trouvée dans l'onglet Console.";
+.Telemetry_CannotDisableTinfoilIo =
+    "Avertissement TinfoilMod: Device!Tag ne correspond pas à votre appareil.\n"
+    "Par conséquent, la collecte de données par Tinfoil.io ne peut être désactivée.\n"
+    "La valeur pour votre appareil peut être trouvée dans l'onglet Console.";
+.UI_CannotRemoveAboutTab =
+    "Avertissement TinfoilMod: Device!Tag ne correspond pas à votre appareil.\n"
+    "Par conséquent, l'onglet À Propos ne peut être désactivé.\n"
+    "La valeur pour votre appareil peut être trouvée dans l'onglet Console.";
 .Misc_LocalFileChecksDisabled =
     "Avertissement TinfoilMod: Device!Tag ne correspond pas à votre appareil.\n"
     "Par conséquent, le contournage des vérifications de fichier ont été désactivées.\n"
