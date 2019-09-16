@@ -1,6 +1,6 @@
 Telemetry!DisableTinfoilIo = Deshabilita la telemetría de Tinfoil.io (también deshabilitará la mayoría de las funciones de Tinfoil.io). Se necesita configurar el Device!Tag.
 
-UI!NoAboutTab =
+UI!NoAboutTab = Elimina la pestaña Acerca de. Se necesita configurar el Device!Tag.
 
 Misc!FakeSentVersion = Suplanta la versión de Tinfoil enviada a las ubicaciones (locations). Elimínalo para usar la versión real.
 Misc!BypassLocalFileChecks = Este valor permite omitir las comprobaciones de los archivos hbl.nsp y loader.ini, cuando se establece en True. Se necesita configurar el Device!Tag.
