@@ -1,9 +1,9 @@
-Telemetry!DisableTinfoilIo = Deshabilita la telemetría de Tinfoil.io (también deshabilitará la mayoría de las funciones de Tinfoil.io).
+Telemetry!DisableTinfoilIo = Deshabilita la telemetría de Tinfoil.io (también deshabilitará la mayoría de las funciones de Tinfoil.io). Needs Device!Tag to be set.
 
 UI!NoAboutTab =
 
 Misc!FakeSentVersion = Suplanta la versión de Tinfoil enviada a las ubicaciones (locations). Elimínalo para usar la versión real.
-Misc!BypassLocalFileChecks = Este valor permite omitir las comprobaciones de los archivos hbl.nsp y loader.ini, cuando se establece en True.
+Misc!BypassLocalFileChecks = Este valor permite omitir las comprobaciones de los archivos hbl.nsp y loader.ini, cuando se establece en True. Needs Device!Tag to be set.
 Misc!AppletOverride = Fuerza el modo Applet en Tinfoil, incluso cuando se ejecuta como aplicación.
 Misc!NoFirmwareTab = Este valor deshabilita la pestaña Firmware cuando se establece en True.
 Misc!CheatFolderPath = Esto modifica la ruta de la carpeta de trucos al valor dado. Útil al suplantar el CFW.

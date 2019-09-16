@@ -1,4 +1,4 @@
-Telemetry!DisableTinfoilIo = Disables the Tinfoil.io telemetry thread (will also disable most Tinfoil.io features).
+Telemetry!DisableTinfoilIo = Disables the Tinfoil.io telemetry thread (will also disable most Tinfoil.io features). Needs Device!Tag to be set.
 
 UI!NoAboutTab = Removes the About tab. Needs Device!Tag to be set.
 

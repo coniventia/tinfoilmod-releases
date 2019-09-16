@@ -1,4 +1,4 @@
-Telemetry!DisableTinfoilIo = Désactive le thread de collection de données par Tinfoil.io (cela désactivera la plupart des fonctionnalités de Tinfoil.io).
+Telemetry!DisableTinfoilIo = Désactive le thread de collection de données par Tinfoil.io (cela désactivera la plupart des fonctionnalités de Tinfoil.io). Requiert que Device!Tag soit défini.
 
 UI!NoAboutTab = Désactive l'onglet À Propos. Needs Device!Tag to be set. Requiert que Device!Tag soit défini.
 
