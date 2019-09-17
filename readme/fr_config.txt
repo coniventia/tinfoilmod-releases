@@ -1,9 +1,9 @@
 Telemetry!DisableTinfoilIo = Désactive le thread de collection de données par Tinfoil.io (cela désactivera la plupart des fonctionnalités de Tinfoil.io). Requiert que Device!Tag soit défini.
 
-UI!NoAboutTab = Désactive l'onglet À Propos. Needs Device!Tag to be set. Requiert que Device!Tag soit défini.
+UI!NoAboutTab = Désactive l'onglet À Propos. Requiert que Device!Tag soit défini.
 
 Misc!FakeSentVersion = Falsifie la version de Tinfoil envoyée aux sources de liens. Retirez pour désactiver.
 Misc!BypassLocalFileChecks = Cette valeur permet de contourner les vérifications des fichiers hbl.nsp et loader.ini, quand définie à True. Requiert que Device!Tag soit défini.
 Misc!AppletOverride = Simule le mode Applet sous Tinfoil, même quand exécuté en tant qu'Application.
 Misc!NoFirmwareTab = Cette valeur désactive l'onglet Mises à jour du système quand définie à True.
-Misc!CheatFolderPath = Remplace le dossier des codes de triche à la valeur donnée. Pratique si le CFW est falsifié.
+Misc!CheatFolderPath = Remplace le dossier des codes de triche par la valeur donnée. Pratique si le CFW est falsifié.

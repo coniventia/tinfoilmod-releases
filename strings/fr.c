@@ -14,7 +14,7 @@
     "La valeur pour votre appareil peut être trouvée dans l'onglet Console.";
 .Misc_LocalFileChecksDisabled =
     "Avertissement TinfoilMod: Device!Tag ne correspond pas à votre appareil.\n"
-    "Par conséquent, le contournage des vérifications de fichier ont été désactivées.\n"
+    "Par conséquent, le contournement des vérifications de fichier a été désactivé.\n"
     "Pour que Tinfoil fonctionne comme prévu, veuillez utiliser hbl 2.1.\n"
     "La valeur de Device!Tag pour votre appareil est: %.8s.";
 .Tab_ModConfig =
