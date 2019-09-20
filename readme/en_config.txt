@@ -1,9 +1,9 @@
 Telemetry!DisableTinfoilIo = Disables the Tinfoil.io telemetry thread (will also disable most Tinfoil.io features). Needs Device!Tag to be set.
 
 UI!NoAboutTab = Removes the About tab. Needs Device!Tag to be set.
+UI!NoFirmwareTab = This value disables the Firmware tab when set to True.
 
 Misc!FakeSentVersion = Spoofs the Tinfoil version sent to the locations. Remove to use actual version.
 Misc!BypassLocalFileChecks = This value allows bypassing of checks for hbl.nsp and loader.ini files, when set to True. Needs Device!Tag to be set.
 Misc!AppletOverride = Forces Applet mode under Tinfoil, even when running as application.
-Misc!NoFirmwareTab = This value disables the Firmware tab when set to True.
 Misc!CheatFolderPath = This overrides the cheat folder path to the given value. Useful when spoofing CFW.

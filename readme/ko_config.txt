@@ -1,9 +1,9 @@
 Telemetry!DisableTinfoilIo = Tinfoil.io로 발신되는 정보를 비활성화합니다. (대부분의 Tinfoil.io 기능도 비활성화될것입니다). Device!Tag 값이 설정되어야합니다.
 
 UI!NoAboutTab = About 탭을 제거합니다. Device!Tag 값이 설정되어야합니다.
+UI!NoFirmwareTab = 이 값을 True로 설정하면 펌웨어 탭이 비활성화됩니다.
 
 Misc!FakeSentVersion = 목적지로 보내지는 틴포일 버전을 속입니다. 실제 버전을 사용할려면 값을 제거하세요.
 Misc!BypassLocalFileChecks = 이 값을 True로 설정하면 hbl.nsp와 loader.ini 파일의 검증을 우회합니다. Device!Tag 값이 설정되어야합니다.
-Misc!AppletOverride = 틴포일이 어플리케이션으로 구동했음에도 애플릿 모드로 구동되도록 강제합니다. 
-Misc!NoFirmwareTab = 이 값을 True로 설정하면 펌웨어 탭이 비활성화됩니다.
+Misc!AppletOverride = 틴포일이 어플리케이션으로 구동했음에도 애플릿 모드로 구동되도록 강제합니다.
 Misc!CheatFolderPath = 이 값을 수정하면 치트 폴더를 수정된 값으로 덮어씁니다. CFW를 속일 때 유용합니다.
