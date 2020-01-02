@@ -1,0 +1,19 @@
+Una mod di  Tinfoil (5.00), per utenti esperti
+-- Opzioni:
+- Permette di sbloccare funzioni esclusive, normalmente accessibili a chi possiede una licenza di SX OS
+- Permetti di sbloccare funzioni specifiche di ReiNX & SX OS
+- Spoofing delle versione di Tinfoil
+- Forza l'Applet Mode
+
+Nota Bene: Le opzioni: bypass del tema lista bianca e lo spoofing sono stati rimossi
+
+Assicurati di avere i file e una configurazione adeguata, se usi Atmosphère, perché potrebbbe causare il crash di Tinfoil.
+Attenzione: se usi Atmosphere, stai attento alla sezione firmware, potrebbe causare il brick della switch!
+
+La configurazione si trova in: "sdmc:/switch/tinfoil/mod_config.ini".
+
+-- Per favore nota bene:
+Il Tag del Dispositivo (Device!Tag) deve essere modificato in un valore di dispositivo-specifico per parti della configurazione che devono essere lette. Questi valori si possono trovare nella sezione Console quando usi TinfoilMod.
+Questo per prevenire file della configurazione malevoli
+
+-- Esempi di configurazione:
