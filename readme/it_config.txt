@@ -1,0 +1,9 @@
+Disabilita la telemetria di Tinfoil.io = Disabilitata la telemetria di Tinfoil.io (questo disabilita gran parte delle funzioni di Tinfoil.io) Serve il Device!Tag per essere impostato
+
+UI!NoAboutTab = Rimouve la sezione About. Serve il Device!Tag per essere impostato.
+UI!NoFirmwareTab = Questo valore disabilita la sezione firmware se impostata su Vero.
+
+Misc!FakeSentVersion = Spooffa la versione di Tinfoil che viene mandata nei posti (locations). Rimouvila per usare l'attuale versione.
+Misc!BypassLocalFileChecks = Questo valore ti permette di aggirare il controllo dei file: hbl.nsp e loader.ini se impostato su Vero (True) Serve il Device!Tag per essere impostato.
+Misc!AppletOverride = Forza la modalità di Tinfoil, anche se la di sta usando come applicazione.
+Misc!CheatFolderPath = Questo sostituisce la cartella cheat con il valore dato. Utile quando fai lo spoofing del CFW.
